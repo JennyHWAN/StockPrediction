@@ -1,1 +1,7 @@
 .DS_Store
+test/.DS_Store
+test/TimeSeries_Auto-ARIMA/.DS_Store
+test/TimeSeries_Auto-ARIMA/venv/.DS_Store
+test/TimeSeries_Auto-ARIMA/venv/lib/.DS_Store
+test/TimeSeries_Auto-ARIMA/venv/lib/python3.9/.DS_Store
+test/TimeSeries_Auto-ARIMA/venv/lib/python3.9/site-packages/.DS_Store
